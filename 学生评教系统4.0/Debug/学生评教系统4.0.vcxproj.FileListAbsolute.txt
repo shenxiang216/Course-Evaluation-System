@@ -1,0 +1,2 @@
+C:\Users\216912\Source\Repos\学生评教系统4.0\Debug\学生评教系统4.0.exe
+C:\Users\216912\Source\Repos\学生评教系统4.0\Debug\学生评教系统4.0.pdb
